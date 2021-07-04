@@ -1,0 +1,15 @@
+G:\WinFormC#\HotelWithEntity\RepositoryPattern\bin\Debug\RepositoryPattern.dll.config
+G:\WinFormC#\HotelWithEntity\RepositoryPattern\bin\Debug\RepositoryPattern.dll
+G:\WinFormC#\HotelWithEntity\RepositoryPattern\bin\Debug\RepositoryPattern.pdb
+G:\WinFormC#\HotelWithEntity\RepositoryPattern\bin\Debug\EntityFramework.dll
+G:\WinFormC#\HotelWithEntity\RepositoryPattern\bin\Debug\EntityFramework.SqlServer.dll
+G:\WinFormC#\HotelWithEntity\RepositoryPattern\bin\Debug\Models.dll
+G:\WinFormC#\HotelWithEntity\RepositoryPattern\bin\Debug\Models.pdb
+G:\WinFormC#\HotelWithEntity\RepositoryPattern\bin\Debug\Models.dll.config
+G:\WinFormC#\HotelWithEntity\RepositoryPattern\bin\Debug\EntityFramework.xml
+G:\WinFormC#\HotelWithEntity\RepositoryPattern\bin\Debug\EntityFramework.SqlServer.xml
+G:\WinFormC#\HotelWithEntity\RepositoryPattern\obj\Debug\RepositoryPattern.csprojAssemblyReference.cache
+G:\WinFormC#\HotelWithEntity\RepositoryPattern\obj\Debug\RepositoryPattern.csproj.CoreCompileInputs.cache
+G:\WinFormC#\HotelWithEntity\RepositoryPattern\obj\Debug\RepositoryPattern.csproj.CopyComplete
+G:\WinFormC#\HotelWithEntity\RepositoryPattern\obj\Debug\RepositoryPattern.dll
+G:\WinFormC#\HotelWithEntity\RepositoryPattern\obj\Debug\RepositoryPattern.pdb

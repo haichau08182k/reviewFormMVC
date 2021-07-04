@@ -1,0 +1,12 @@
+G:\WinFormC#\HotelWithEntity\Models\bin\Debug\Models.dll.config
+G:\WinFormC#\HotelWithEntity\Models\bin\Debug\Models.dll
+G:\WinFormC#\HotelWithEntity\Models\bin\Debug\Models.pdb
+G:\WinFormC#\HotelWithEntity\Models\bin\Debug\EntityFramework.dll
+G:\WinFormC#\HotelWithEntity\Models\bin\Debug\EntityFramework.SqlServer.dll
+G:\WinFormC#\HotelWithEntity\Models\bin\Debug\EntityFramework.xml
+G:\WinFormC#\HotelWithEntity\Models\bin\Debug\EntityFramework.SqlServer.xml
+G:\WinFormC#\HotelWithEntity\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+G:\WinFormC#\HotelWithEntity\Models\obj\Debug\Models.csproj.CopyComplete
+G:\WinFormC#\HotelWithEntity\Models\obj\Debug\Models.dll
+G:\WinFormC#\HotelWithEntity\Models\obj\Debug\Models.pdb
+G:\WinFormC#\HotelWithEntity\Models\obj\Debug\Models.csprojAssemblyReference.cache
